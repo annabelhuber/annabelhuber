@@ -5,12 +5,13 @@ I am a 2023 graduate with a major in Astrophysics and a minor in Computer scienc
 LinkedIn Profile: https://www.linkedin.com/in/annabel-huber-6a63aa231/
 
 A brief synopsis of projects in my portfolio:
+
+* ## Closet Sorting
+  - This project is currently in the works and is 1) a way for me to work with GUIs in Java in more depth and 2) something that would make my everyday life easier. The concept is to be able to log in all of my clothing so that I can pick out outfits, know where all of my clothing is stored, search my inventory for specific attributes, etc.
 * ## BlackJack
   - Done for a class, I used Java to simulate a random game of Blackjack and log the results, which was then ran 1000 times in order to see the distribution of results and test if the house really does always win, even without any kind of unfair advantage
 * ## Edge Detection
   - This code was generated using concepts and equation based in Numerical Analysis. Two different methods (the Gradient Method and Heissian Matrices) were coded and compared in their ability to accurately take an image and find the "edges" i.e. the borders of objects in the photo. This project was later used in a poster, which is linked in the README of that project.
-* ## Closet Sorting
-  - This project is currently in the works and is 1) a way for me to work with GUIs in Java in more depth and 2) something that would make my everyday life easier. The concept is to be able to log in all of my clothing so that I can pick out outfits, know where all of my clothing is stored, search my inventory for specific attributes, etc.
 * ## Spell Check
   - This project was done in 2022 and consists of two parts: in the first part, I used a basic English dictionary and string comparisons to generate a spell check which would identify misspelled words and suggest the 5 words from the dictionary with the lowest amount of distance from the original word. The second part adapted the spell check by feeding the code a document related to the one being edited for misspelling -- in this case, the code was fed the course documentation in order to suggest words that were commonly used in related texts to give a more accurate suggestion based on the content of the text.
 
