@@ -8,6 +8,8 @@ A brief synopsis of projects in my portfolio:
 
 * ## Closet Sorting
   - This project is currently in the works and is 1) a way for me to work with GUIs in Java in more depth and 2) something that would make my everyday life easier. The concept is to be able to log in all of my clothing so that I can pick out outfits, know where all of my clothing is stored, search my inventory for specific attributes, etc.
+* ## Raspberry Pi LED Matrix
+  - This project is a birthday gift to my dad and includes the code to be uploaded to a Raspberry Pi and connected to a matrix of LEDs. The display will show various messages depending on if it's a regular day, a holiday, or somebody's birthday.
 * ## BlackJack
   - Done for a class, I used Java to simulate a random game of Blackjack and log the results, which was then ran 1000 times in order to see the distribution of results and test if the house really does always win, even without any kind of unfair advantage
 * ## Edge Detection
