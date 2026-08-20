@@ -2,7 +2,7 @@
 
 I am a 2023 graduate with a major in Astrophysics and a minor in Computer science -- many of my projects shown here were done for coursework, while others are personal projects and/or learning experiences for new languages.
 
-LinkedIn Profile: https://www.linkedin.com/in/annabel-huber-6a63aa231/
+LinkedIn Profile: https://www.linkedin.com/in/annabelhuber/
 
 A brief synopsis of projects in my portfolio:
 
