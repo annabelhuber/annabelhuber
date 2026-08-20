@@ -1,6 +1,6 @@
 ## Annabel Huber
 
-I am a 2023 graduate with a major in Astrophysics and a minor in Computer science -- many of my projects shown here were done for coursework, while others are personal projects and/or learning experiences for new languages.
+I am a 2023 graduate with a major in Astrophysics and a minor in Computer science from Colby College. Many of my projects shown here were done for coursework, while others are personal projects and/or learning experiences for new languages.
 
 LinkedIn Profile: https://www.linkedin.com/in/annabelhuber/
 
